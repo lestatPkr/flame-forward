@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Oscar Torres',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Flame-Forward is a blog about philosophy, technology, innovation and people.',
 
   // social usernames (optional)
   twitter: 'oscartorresfz',
