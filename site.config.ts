@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b7053f2700af4c1bb7bb4af4e3f41954',
+  rootNotionPageId: 'Flame-Forward-6cf2703d9fe54b6e9fda136b8fbd48fc',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -54,11 +54,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About me',
-      pageId: 'a0649873a287482db5e9bff755b9355c'
+      title: 'Blog',
+      pageId: '/75cac6b117c14048a4a141555aa7a67e'
+
     },
     {
-      title: 'My CV',
+      title: 'About me',
       pageId: 'Oscar-Torres-cf43585938444ce9bead0490b26fe160'
     }
   ]
