@@ -56,6 +56,10 @@ export default siteConfig({
     {
       title: 'About me',
       pageId: 'a0649873a287482db5e9bff755b9355c'
+    },
+    {
+      title: 'My CV',
+      pageId: 'Oscar-Torres-cf43585938444ce9bead0490b26fe160'
     }
   ]
 })
