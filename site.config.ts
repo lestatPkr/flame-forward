@@ -59,6 +59,11 @@ export default siteConfig({
 
     },
     {
+      title: 'Mentoring',
+      url: '/mentoring'
+
+    },
+    {
       title: 'About me',
       pageId: 'Oscar-Torres-cf43585938444ce9bead0490b26fe160'
     }
