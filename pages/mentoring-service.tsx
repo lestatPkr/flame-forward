@@ -88,7 +88,7 @@ export default function Component() {
             ))}
           </ul>
           <p className="text-sm mb-4 "><strong>Focus:</strong> {tier.focus}</p>
-          <Link href={"https://calendly.com/oscartf1/30min"}>
+          <Link href={"https://calendly.com/oscartf1/30min"} target='_blank'>
           <Button className="w-full bg-primary hover:bg-primary">Book 30min free call</Button>
 
       </Link>
@@ -100,7 +100,7 @@ export default function Component() {
     <div className="text-center">
       <h2 className="text-3xl font-bold mb-4">Ready to Ignite Your Potential?</h2>
       <p className="text-xl mb-8">Choose your tier and start your mentoring journey today!</p>
-      <Link href={"https://calendly.com/oscartf1/30min"}>
+      <Link href={"https://calendly.com/oscartf1/30min"} target='_blank'>
       <Button className="bg-primary hover:bg-primary text-lg px-8 py-3">Get Started</Button>
 
       </Link>
