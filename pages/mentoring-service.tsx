@@ -14,7 +14,7 @@ export default function Component() {
       price: "Free",
       duration: "month",
       features: [
-        "Monthly one-on-one check-ins (30 minutes)",
+        "Monthly one-on-one check-ins (45 minutes)",
         "Personalized guidance on building core software engineering skills",
         "Access to shared learning resources",
         "Accountability support and growth tracking"
